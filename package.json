@@ -1,0 +1,24 @@
+{
+  "name": "swiftype-autocomplete-jquery",
+  "version": "1.0.0",
+  "description": "Swiftype jQuery autocomplete plugin",
+  "main": "jquery.swiftype.autocomplete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixeo/swiftype-autocomplete-jquery.git"
+  },
+  "keywords": [
+    "pixeo",
+    "swiftype",
+    "jquery"
+  ],
+  "author": "@pixeo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixeo/swiftype-autocomplete-jquery/issues"
+  },
+  "homepage": "https://github.com/pixeo/swiftype-autocomplete-jquery#readme"
+}
